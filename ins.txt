@@ -1,0 +1,10 @@
+1.ADA will choose a four letter word.
+2.You have to guess that word by giving random words.
+3.If each letter match with the computer word at exact position
+	then, it displays "(no of correct letters) CORRECT"
+	eg: 3 C-3 letters are correct and are correct position.
+4.If the letters are correct but placed in a wrong position 
+	then, it displays "(no of correct letters) DISPLACED"
+	eg: 2 D-letters are correct but placed displaced.
+5.words containing repetitive letters are not used (eg.loop,dead,pool etc)
+6.Person with minimum trials will the winner.
